@@ -1,0 +1,15 @@
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\BUS.dll.config
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\BUS.dll
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\BUS.pdb
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\DAL.dll
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\EntityFramework.dll
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\DAL.pdb
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\DAL.dll.config
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\EntityFramework.xml
+D:\NguyenDucThien_2280603048\De02\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\NguyenDucThien_2280603048\De02\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\NguyenDucThien_2280603048\De02\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\NguyenDucThien_2280603048\De02\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\NguyenDucThien_2280603048\De02\BUS\obj\Debug\BUS.dll
+D:\NguyenDucThien_2280603048\De02\BUS\obj\Debug\BUS.pdb
